@@ -7,9 +7,9 @@ const coverHeading = document.querySelector('.cover__heading');
 const form = document.forms.add;
 
 const playListTitles = [
-    'Игорь Тальков. Лучшее',
-    'Музыка категории Б',
-    'Подборка с фестиваля FYRE'
+    'Моя музыка',
+    'Музыка друзей',
+    'Подборка музыки'
 ];
 
 
